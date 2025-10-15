@@ -9,8 +9,8 @@ Actualmente me enfoco en el Desarrollo de Software Backend y la mejora continua 
 Python: Desarrollo Backend enfocado en Lógica de Negocio (código organizado y flexible).
 Pseudocódigo: Diseño de la lógica base y funcionamiento del software.
 Git & GitHub: Control de Versiones estándar para la Colaboración en Equipo y gestión de repositorios.
-Linux/Terminal: Gestión eficiente del entorno de desarrollo y ficheros (CLI).
-Principios S.O.L.I.D: Desarrollo de Codigo Limpio, Organizado Y Bien Documentado.
+Terminal Shell: Gestión eficiente del entorno de desarrollo y ficheros (CLI).
+S.O.L.I.D: Desarrollo de Codigo Limpio, Organizado Y Bien Documentado.
 
 🚀 Skills Adicionales:
 Aprendizaje continuo sobre el sector Tech (incluyendo IA y automatización de workflows con Make)
