@@ -5,7 +5,7 @@ Hola, Soy Damián Delgado, Joven de 20 años y Desarrollador Full-Stack en forma
 
 Actualmente me formo en el Master de Desarrollo Web Full-Stack y desarrollo Mis Habilidades en la Lógica de Programación para crear Software escalable y con buena documentacion
 
-🛠 Tech Stack:
+<h3>🛠 Tech Stack:</h3>
 
 <img width="50" height="50" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/9709dc8a-5783-4c33-804e-02414f41d843"/> 
 <img width="100" height="100" alt="django" src="https://github.com/user-attachments/assets/cc7c6a03-e665-4254-b5e8-2226dc21615a"/> 
