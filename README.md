@@ -5,6 +5,8 @@ Hola, Soy Damián Delgado, Joven de 20 años y Desarrollador Full-Stack en forma
 
 Actualmente me formo en el Master de Desarrollo Web Full-Stack y desarrollo Mis Habilidades en la Lógica de Programación para crear Software escalable y con buena documentacion
 
+<br>
+
 <h3>🛠 Tech Stack:</h3>
 
 <img width="50" height="50" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/9709dc8a-5783-4c33-804e-02414f41d843"/> 
@@ -14,6 +16,8 @@ Actualmente me formo en el Master de Desarrollo Web Full-Stack y desarrollo Mis 
 <img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/e72ea6f3-0a74-41f0-b425-8e5890c4ef10"/>
 <img width="50" height="50" alt="n8n" src="https://github.com/user-attachments/assets/a2e474fd-008a-4d9b-947c-b49a7651fcf8" />
 
+<br>
+
 <h3>💻 Tech Skills</h3>
 - Python: Desarrollo Backend en Lógica de Negocio (código organizado y flexible) <br>
 - Django: Escalabilidad de Aplicaciones Backend con Python <br>
@@ -21,18 +25,24 @@ Actualmente me formo en el Master de Desarrollo Web Full-Stack y desarrollo Mis 
 - Git y GitHub: Control de Versiones para Colaboracion y Trabajo en el desarrollo de Proyectos <br>
 - n8n: Automtizaciones con n8n para optimizar procesos <br>
 
+<br>
 
 <h3>🚀 Soft Skills</h3>
 - Aprendizaje continuo (IA y Automatización con n8n) <br>
 - Trabajo en Equipo <br>
 - Comunicación Efectiva <br>
 
+<br>
 
 <h3>👨‍💻 Proyectos en Desarrollo</h3>
 - Libreria Digital 💻 (Proyecto Full-Stack) <br>
 - Web para Camping 🏕️ (Proyecto Backend) <br>
 
+<br>
+
 ⭐ Busco oportunidades que me permitan aplicar mis conocimientos y desarrollar mi capacidad para Solucionar Problemas en la arquitectura Backend.
+
+<br>
 
 <h3>Mis Redes Sociales: </h3><br>
 YouTube: https://www.youtube.com/channel/UCSCRno4MJjdjr5ZpmD0I3pw <br>
