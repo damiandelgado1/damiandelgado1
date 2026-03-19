@@ -15,10 +15,10 @@ Actualmente me formo en el Master de Desarrollo Web Full-Stack y desarrollo Mis 
 <img width="50" height="50" alt="n8n" src="https://github.com/user-attachments/assets/a2e474fd-008a-4d9b-947c-b49a7651fcf8" />
 
 <h3>💻 Tech Skills</h3>
-- Python: Desarrollo Backend en Lógica de Negocio (código organizado y flexible).
-- Django: Escalabilidad de Aplicaciones Backend con Python
-- SQL: Creacion y Diseño de Bases de Datos estructuradas para almacenamiento de Datos
-- Git y GitHub: Control de Versiones para Colaboracion y Trabajo en el desarrollo de Proyectos
+- Python: Desarrollo Backend en Lógica de Negocio (código organizado y flexible) <br>
+- Django: Escalabilidad de Aplicaciones Backend con Python <br>
+- SQL: Creacion y Diseño de Bases de Datos estructuradas para almacenamiento de Datos <br>
+- Git y GitHub: Control de Versiones para Colaboracion y Trabajo en el desarrollo de Proyectos <br>
 - n8n: Automtizaciones con n8n para optimizar procesos
 
 
