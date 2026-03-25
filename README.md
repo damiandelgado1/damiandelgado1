@@ -1,4 +1,5 @@
-<img width="1080" height="2560" alt="Banner LinkedIn" src="https://github.com/user-attachments/assets/2c154a1c-0742-4e39-b038-b06490a05966" />
+![Banner LinkedIn Developer](https://github.com/user-attachments/assets/c1ddfa89-2c26-4e10-917c-c492321513d1)
+
 
 <h3>About Me</h3>
 Hola, Soy Damián Delgado, Joven de 20 años y Desarrollador Full-Stack en formacion con enfoque en el Desarrollo Backend
